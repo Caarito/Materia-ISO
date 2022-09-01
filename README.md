@@ -46,7 +46,7 @@
 
 * [Practica 1](https://github.com/Caarito/Materia-ISO/blob/main/Practicas/Practica%201/Practica1.pdf) :page_facing_up:
 * [Practica 2](https://github.com/Caarito/Materia-ISO/blob/main/Practicas/Practica%202/Practica%202%20.pdf) :page_facing_up:
-* [Practica 3](https://github.com/Caarito/Materia-ISO/blob/main/Practicas/Practica%203/practica%203.pdf4) :page_facing_up:
+* [Practica 3](https://github.com/Caarito/Materia-ISO/blob/main/Practicas/Practica%203/practica%203.pdf) :page_facing_up:
 
 
 ### Segunda parte Práctica Normal PN (Prácticas 4,5 Y 6)
