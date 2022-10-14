@@ -27,7 +27,7 @@
 
 ### :clapper: Videos:
 * [Teorías](https://www.youtube.com/playlist?list=PL3a_0yafSm3jqtnNdrsTGUcD7zRm21AqP) :film_strip:
-* [Prácticas]() :film_strip:
+* [Prácticas](https://www.youtube.com/playlist?list=PL3a_0yafSm3jj4N3fa3rhjo-1R2tU9A4g) :film_strip:
 
 ### :round_pushpin: Material Adicional:
   * [Descarga Virtual Box](https://www.virtualbox.org/) :arrow_down:
