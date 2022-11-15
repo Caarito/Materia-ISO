@@ -38,6 +38,7 @@
  * [Libro Sistemas Operativos Modernos - Andrew S.Tanenbaum
 ](https://github.com/Caarito/Materia-ISO/blob/main/Teorias/Libros/Sistemas%20Operativos%20Modernos%20-%20Andrew%20S.Tanenbaum.pdf
 ):closed_book:
+  * [Qplanif](https://github.com/Caarito/Materia-ISO/tree/main/Practicas/Qplanif) 💻
 
  
  ### 💻 Practicas:
